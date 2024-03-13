@@ -1,0 +1,28 @@
+body{background-color: blue;
+     font-family: sf;}
+#d,#h,#m,#s{position: absolute;
+            top: 545px ;}
+img{position: absolute;
+    left: 350px;
+    width: 700px;
+    height: 400px;
+    background-color: rgb(28, 28, 110);
+    position: absolute;
+    right: 175px;
+    top:25px}
+#d{position: absolute;
+    left:350px ;}
+#h{    position: absolute;
+    left: 550px;}
+#m{ position: absolute;
+    right: 450px;}
+#s{  position: absolute;
+    right: 300px;}
+#text{position: absolute;
+    top: 400px;
+    text-align: center;
+    font-family: 'sf';
+    font-size: medium;
+    left: 375px;
+    padding: 2px;
+    }
